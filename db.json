@@ -1,0 +1,33 @@
+{
+    "batches": [
+        {
+            "id": 1,
+            "name": "2019-09-19_FirstTradeCapture",
+            "createdOn": "2019-09-19",
+            "createdBy": "Marius Barnard",
+            "processed": false
+        },
+        {
+            "id": 2,
+            "name": "2019-09-05_Woodstock",
+            "createdOn": "2019-09-19",
+            "createdBy": "Al Pine",
+            "processed": true
+        },
+        {
+            "id": 3,
+            "name": "2019-08-27_FishStock",
+            "createdOn": "2019-09-19",
+            "createdBy": "John Dorry",
+            "processed": false
+        },
+        {
+            "id": 4,
+            "name": "2019-08-01_TradeCorrections",
+            "createdOn": "2019-08-"1,
+            "createdBy": "Agnus Cutthroat",
+            "processed": false
+        }                        
+    ]
+
+}
